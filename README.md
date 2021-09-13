@@ -1,7 +1,3 @@
-### Hi there 👋 I am Dheeraj Choudhary
-
-**dheeraj3choudhary/dheeraj3choudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### I am a Technology Designer and YouTuber who likes to write Technical Blogs and contribute to Open Source which mainly includes Cloud, DevOps,Linux etc.
 
 ✏️ BLOG WEBSITE● https://dheeraj3choudhary.com/
@@ -14,3 +10,9 @@ Connect with me:
 
 FOR COLLABORATION:  
 Email ● dheeraj3choudhary@gmail.com
+
+https://github-readme-stats.vercel.app/api?username=dheeraj3choudhary
+
+https://github-readme-streak-stats.herokuapp.com/?user=dheeraj3choudhary
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=dheeraj3choudhary
