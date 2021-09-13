@@ -11,7 +11,7 @@ Connect with me:
 FOR COLLABORATION:  
 Email ● dheeraj3choudhary@gmail.com
 
-<img src="https://github-readme-stats.vercel.app/api?username=dheeraj3choudhary&show_icons=true&theme=merko">
+<img src="https://github-readme-stats.vercel.app/api?username=dheeraj3choudhary&show_icons=true&theme=merko"> 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dheeraj3choudhary&theme=highcontrast">
 
