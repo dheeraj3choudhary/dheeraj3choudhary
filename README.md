@@ -1,4 +1,4 @@
-### I am a Technology Designer and YouTuber who likes to write Technical Blogs and contribute to Open Source which mainly includes Cloud, DevOps,Linux etc.
+### I am a Lead Engineer and YouTuber who likes to write Technical Blogs and contribute to Open Source which mainly includes Cloud, DevOps,Linux etc.
 
 ✏️ BLOG WEBSITE● https://dheeraj3choudhary.com/  
 🌐 LINKEDIN ●  https://www.linkedin.com/in/dheeraj-choudhary/  
