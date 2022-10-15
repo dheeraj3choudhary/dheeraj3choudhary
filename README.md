@@ -2,13 +2,11 @@
 
 ✏️ BLOG WEBSITE● https://dheeraj3choudhary.com/  
 🌐 LINKEDIN ●  https://www.linkedin.com/in/dheeraj-choudhary/  
-🔥 GitHub ● https://github.com/dheeraj3choudhary  
 ❤️ YouTube ● https://www.youtube.com/channel/UCFiAytcPIlbvvVc7yHKxkMg/videos  
 
-FOR COLLABORATION:  
-Email ● dheeraj3choudhary@gmail.com
-
 ### GitHub Stats
+
+#### So, did you find my content helpful? If you did dont forget to [nominate me for Github Star](https://stars.github.com/nominate/) 🌟
 
 ![Visitor Count](https://profile-counter.glitch.me/{dheeraj3choudhary}/count.svg)
 
