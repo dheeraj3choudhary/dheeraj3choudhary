@@ -8,7 +8,7 @@
 </p>
 
 <a href="https://dheeraj3choudhary.com/" target="_blank">
-  <img height="90" alt="Dheeraj Choudhary | Hashnode"  src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611244244346/Y0nrI4kKp.png?auto=compress&w=500"/>
+  <img height="80" alt="Dheeraj Choudhary | Hashnode"  src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611244244346/Y0nrI4kKp.png?auto=compress&w=500"/>
 </a> 
 
 <a href="https://www.linkedin.com/in/dheeraj-choudhary/" target="_blank">
