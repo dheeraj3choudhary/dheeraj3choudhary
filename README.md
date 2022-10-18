@@ -3,10 +3,6 @@
 
 # I am a Lead Engineer and YouTuber who likes to write Technical Blogs and contribute to Open Source which mainly includes Cloud, DevOps,Linux etc.
 
-<p align="left">
-  <img alt="" style="{max-height: 0px}" src="./assets/header/ossamamehmood.png">
-</p>
-
 <a href="https://www.linkedin.com/in/dheeraj-choudhary/" target="_blank">
   <img height="100" alt="Dheeraj Choudhary | LinkedIN"  src="https://user-images.githubusercontent.com/60597290/152035581-a7c6c0c3-65c3-4160-89c0-e90ddc1e8d4e.png"/>
 </a> 
@@ -20,7 +16,7 @@
 </a>  
 
 <a href="https://dheeraj3choudhary.com/" target="_blank">
-  <img height="90" alt="Dheeraj Choudhary | Hashnode"  src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611244244346/Y0nrI4kKp.png?auto=compress&w=500"/>
+  <img height="100" alt="Dheeraj Choudhary | Hashnode"  src="./img/background2-overlay.png"/>
 </a> 
   
 ## If you like my contribution [nominate me for Github Star](https://stars.github.com/nominate/) 🌟
