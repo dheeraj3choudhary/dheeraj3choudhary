@@ -1,7 +1,8 @@
 
 <div align="center">
 
-# I am a Lead Engineer and YouTuber who likes to write Technical Blogs and contribute to Open Source which mainly includes Cloud, DevOps,Linux etc.
+# I am 11+ years experienced IT professional focused in AWS Cloud and DevOps Domain. Specializing in DevOps, Build, Release Engineering, Software configuration management in automating and end to end lifecycle for build-deploy-release. I am an AWS Hero, AWS User Group Pune leader, AWS Ambassador, Hashicorp Ambassador, Hashicorp Pune User Group Leader and passionate about co-organizing physical Meetup and AWS Community Days. I am an active international speaker at Technical conferences and events.
+# I share my expertise with wider audience with blogs about AWS,DevOps,GenAI & Machine Learning on my YouTube channel, which focuses on content such as, AWS, DevOps, open source,GenAI, Artificial Intelligence,Machine Learning and AWS community activities.
 
 <a href="https://www.linkedin.com/in/dheeraj-choudhary/" target="_blank">
   <img height="100" alt="Dheeraj Choudhary | LinkedIN"  src="https://user-images.githubusercontent.com/60597290/152035581-a7c6c0c3-65c3-4160-89c0-e90ddc1e8d4e.png"/>
