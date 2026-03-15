@@ -29,7 +29,7 @@
 
 </div>
 
-## AWS CI/CD Projects
+## AWS CI/CD Devops Projects
 
 End-to-end CI/CD projects built on AWS covering every major DevOps tool and deployment pattern. Each project uses two separate repositories, one for infrastructure and one for application code following real enterprise practices.
 
