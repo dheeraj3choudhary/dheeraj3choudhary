@@ -74,6 +74,26 @@ Hands-on containerization projects demonstrating Docker fundamentals, orchestrat
 | 3 | [Node.js REST API](https://github.com/dheeraj3choudhary/docker-project-nodejs-rest-api) | Node.js, Express | GitHub | Docker Compose | Docker Container | docker-compose.yml |
 | 4 | [WordPress with MySQL](https://github.com/dheeraj3choudhary/docker-project-wordpress-mysql) | WordPress, MySQL | GitHub | Docker Compose | Docker Container | docker-compose.yml |
 
+## AWS Terraform DevOps Projects
+Hands-on infrastructure automation projects demonstrating how to provision, deploy, and manage scalable AWS cloud environments using Terraform, containers, and data pipelines as part of modern DevOps workflows.
+
+[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
+[![Amazon ECS](https://img.shields.io/badge/Amazon_ECS-FF9900?style=for-the-badge&logo=amazon-ecs&logoColor=white)](https://aws.amazon.com/ecs/)
+[![AWS Fargate](https://img.shields.io/badge/AWS_Fargate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/fargate/)
+[![Amazon ECR](https://img.shields.io/badge/Amazon_ECR-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/ecr/)
+[![AWS Glue](https://img.shields.io/badge/AWS_Glue-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/glue/)
+[![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)](https://aws.amazon.com/s3/)
+[![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)](https://aws.amazon.com/ec2/)
+[![Elastic Load Balancer](https://img.shields.io/badge/Elastic_Load_Balancer-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/elasticloadbalancing/)
+[![IAM](https://img.shields.io/badge/AWS_IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/iam/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+
+| # | Project | Tech Stack | AWS Services | Infrastructure | Application | Deployment |
+|---|---------|------------|--------------|---------------|-------------|------------|
+| 1 | [AWS Glue ETL Pipeline](https://github.com/dheeraj3choudhary/terraform-aws-glue-etl-data-pipeline/tree/main) | Terraform, Python | S3, AWS Glue, IAM | Terraform IaC | ETL Data Processing | Terraform CLI |
+
 <img src="https://github-readme-stats.vercel.app/api?username=dheeraj3choudhary&show_icons=true&theme=merko"> 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dheeraj3choudhary&theme=highcontrast">
