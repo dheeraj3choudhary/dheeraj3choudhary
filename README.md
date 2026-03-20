@@ -49,6 +49,7 @@ End-to-end CI/CD projects built on AWS covering every major DevOps tool and depl
 |---|---------|----------|--------|---------|--------------|-----|
 | 1 | [Weather App](https://github.com/dheeraj3choudhary/aws-cicd-weatherapp-nodejs-infra) | Node.js | CodeCommit | Full AWS Stack | EC2 | CloudFormation |
 | 2 | [Currency Converter](https://github.com/dheeraj3choudhary/aws-cicd-currencyconvertor-java-infra) | Java | CodeCommit | Full AWS Stack | Elastic Beanstalk | CloudFormation |
+| 2 | [QR Code Generator](https://github.com/dheeraj3choudhary/aws-cicd-qrcode-python-infra) | Python | CodeCommit | Full AWS Stack | EC2 | CloudFormation |
 
  ---
 ## Docker Projects
