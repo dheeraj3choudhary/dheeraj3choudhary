@@ -29,7 +29,7 @@
 
 </div>
 
-# AWS AI API Projects
+## AWS AI API Projects
  
 Hands-on computer vision projects demonstrating how to detect, analyze, and label images using AWS managed AI services, FastAPI, and Streamlit as part of modern cloud-native application workflows.
  
