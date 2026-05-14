@@ -29,6 +29,22 @@
 
 </div>
 
+# AWS AI API Projects
+ 
+Hands-on computer vision projects demonstrating how to detect, analyze, and label images using AWS managed AI services, FastAPI, and Streamlit as part of modern cloud-native application workflows.
+ 
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
+[![Amazon Rekognition](https://img.shields.io/badge/Amazon_Rekognition-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/rekognition/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![IAM](https://img.shields.io/badge/AWS_IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/iam/)
+ 
+| # | Project | AWS AI Service | Backend | Frontend | Deployment | Goal |
+|---|---------|----------------|---------|----------|------------|------|
+| 1 | [AI Image Label Detection](https://github.com/dheeraj3choudhary/aws-rekognition-image-label-detection) | Amazon Rekognition | FastAPI | Streamlit | Docker | Detect and label objects in images |
+
 ## AWS CI/CD Devops Projects
 
 End-to-end CI/CD projects built on AWS covering every major DevOps tool and deployment pattern. Each project uses two separate repositories, one for infrastructure and one for application code following real enterprise practices.
